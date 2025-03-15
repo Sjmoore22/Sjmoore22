@@ -5,13 +5,17 @@ Strong background in Banking and Data Analytics with 5+ years of experience work
 Holds a Master’s degree in Finance & Economics, focused on statistics, probability, and econometrics.
 
 ### Technical Skills
-📊 Data analysis/wrangling skills using Excel/SQL/Python
-📈 Data visualization and storytelling skills using Tableau
-☁️ Cloud computing skills in AWS
-🔗 Graph database management skills using Neo4j
+- 📊 Data analysis/wrangling skills using Excel/SQL/Python
+- 📈 Data visualization and storytelling skills using Tableau
+- ☁️ Cloud computing skills in AWS
+- 🔗 Graph database management skills using Neo4j
 
 ### Soft Skills
-🗣 Communication, Stakeholder Management, Flexibility, Presentation, Storytelling
+- 🗣 Communication
+- Stakeholder Management
+- Flexibility
+- Presentation
+- Storytelling
 
 
 <!--
