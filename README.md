@@ -5,9 +5,9 @@ Strong background in Data Analytics with 4+ years of experience working with com
 
 ### Technical Skills
 - 📊 Data analysis/wrangling skills using Excel/SQL/Python
-- 📈 Data visualization and storytelling skills using Tableau
+- 📈 Data visualization and storytelling skills using Tableau and Power Bi
 - ☁️ Cloud computing skills in AWS
-- 🔗 Graph database management skills using Neo4j
+- 🔗 Graph database management skills
 
 ### Soft Skills
  - Communication
