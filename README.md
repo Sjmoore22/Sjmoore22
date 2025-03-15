@@ -15,3 +15,7 @@ Strong background in Data Analytics with 4+ years of experience working with com
  - Flexibility
  - Presentation
  - Storytelling
+
+### Contact Me
+- Work: shannon.moore@golf.org.au
+- Personal: sjmoore009@gmail.com
