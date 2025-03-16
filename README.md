@@ -21,4 +21,4 @@ Strong background in Data Analytics with 4+ years of experience working with com
 - Personal: sjmoore009@gmail.com
 
 ### Additional Resources
-- https://carrd.co/dashboard/1157174208541562/build
+- [https://carrd.co/dashboard/1157174208541562/build](https://roleatgolfaustralia.carrd.co/)
