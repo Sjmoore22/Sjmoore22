@@ -18,6 +18,7 @@ Strong background in Data Analytics with 4+ years of experience working with com
 
 ### Contact Me
 - Work: smooore@wesdigital.com.au
+- Work 2: smoore@wesfarmers.com.au
 - Personal: sjmoore009@gmail.com
 
 ### Additional Resources
